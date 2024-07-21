@@ -1,4 +1,4 @@
-![logo](file:///C:/Users/kunda/Downloads/Green%20Simple%20Manager%20LinkedIn%20Banner.png)
+![logo]("C:\Users\kunda\Downloads\Green Simple Manager LinkedIn Banner.png")
 <h1 align="center">Hi 👋, I'm SHRIKANT HANDIPHODE</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
